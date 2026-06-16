@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**momo1226momo/momo1226momo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # momo1226momo / README.md
 
@@ -30,12 +16,15 @@ Here are some ideas to get you started:
 </p>
 
 ## 🌟 About Me
-
+- 🎓 **江西财经大学** 在读学生
 - 🛠️ **专业领域**：专注于嵌入式系统工程与 PCB 设计。
 - 💻 **硬件/逻辑**：熟练运用 Verilog 进行 FPGA 开发。
 - ⚡ **当前研究**：控制理论、物理动力学（PID、ADRC 算法等）。
 - 🚀 **正在学习**：更多前沿硬件及自动化控制技术。
+- 🎯 致力于为开源社区做贡献
+- 🌱 正在学习更多前沿技术
 
+## 💖 Support My Work
 ## 📬 Connect with Me
 
-- 📧 **Email**: 你的邮箱地址@example.com
+- 📧 **Email**: 1907902196@qq.com
